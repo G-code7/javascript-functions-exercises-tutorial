@@ -5,5 +5,3 @@ let multi = function(a,b) {
 
 
 // Your code here
-let myFirstVar = multi(324234, 47);
-console.log(myFirstVar);
